@@ -192,6 +192,14 @@ blockquote {
   padding-left: 5%;
   width: 100%;
 }
+
+.project{
+  margin-bottom: 35px;
+}
+.project .list-group{
+  margin-bottom: 0px;
+}
+
 .publication {
   margin-bottom: 0;
 }
